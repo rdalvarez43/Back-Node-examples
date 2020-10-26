@@ -1,0 +1,22 @@
+{
+  "name": "back-node-examples",
+  "version": "1.0.0",
+  "description": "Backend examples for educational ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rdalvarez43/Back-Node-examples.git"
+  },
+  "author": "",
+  "license": " GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/rdalvarez43/Back-Node-examples/issues"
+  },
+  "homepage": "https://github.com/rdalvarez43/Back-Node-examples#readme",
+  "dependencies": {
+    "mathjs": "^7.5.1"
+  }
+}
